@@ -33,6 +33,7 @@ namespace qrcode;
  * @copyright 1
  * @browsers all
  * @php_version_min 5.3
+ * @displayAdmin 0
  */
 
 class module extends \module {
